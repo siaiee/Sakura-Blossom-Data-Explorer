@@ -1,0 +1,126 @@
+.btn-primary {
+  @apply px-4 py-2 bg-gradient-to-r from-pink-500 to-pink-600 hover:from-pink-600 hover:to-pink-700 text-white font-semibold rounded-lg shadow-lg hover:shadow-xl transition-all;
+}
+.btn-secondary {
+  @apply px-4 py-2 bg-white hover:bg-gray-50 text-gray-700 font-medium rounded-lg border border-gray-300 transition-colors;
+}
+.btn-danger {
+  @apply px-4 py-2 bg-red-500 hover:bg-red-600 text-white font-semibold rounded-lg transition-colors;
+}
+.btn-icon {
+  @apply p-2 rounded-lg hover:bg-gray-100 text-gray-600 hover:text-gray-800 transition-colors;
+}
+.card {
+  @apply bg-white rounded-xl shadow-lg border border-gray-200;
+}
+.card-header {
+  @apply bg-gradient-to-r from-pink-50 to-white border-b border-gray-200 px-6 py-4;
+}
+.card-body {
+  @apply p-6;
+}
+.card-footer {
+  @apply bg-gray-50 px-6 py-4 border-t border-gray-200;
+}
+.input-field {
+  @apply w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-pink-500 focus:border-transparent;
+}
+.input-label {
+  @apply block text-sm font-semibold text-gray-700 mb-2;
+}
+.select-field {
+  @apply w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-pink-500 focus:border-transparent;
+}
+.badge {
+  @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-bold;
+}
+.badge-pink {
+  @apply bg-pink-500 text-white;
+}
+.badge-blue {
+  @apply bg-blue-500 text-white;
+}
+.badge-green {
+  @apply bg-green-500 text-white;
+}
+.badge-gray {
+  @apply bg-gray-200 text-gray-700;
+}
+.stat-box {
+  @apply rounded-lg p-4 border;
+}
+.stat-box-blue {
+  @apply bg-blue-50 border-blue-200;
+}
+.stat-box-green {
+  @apply bg-green-50 border-green-200;
+}
+.stat-box-pink {
+  @apply bg-pink-50 border-pink-200;
+}
+.stat-label {
+  @apply text-xs text-gray-600;
+}
+.stat-value {
+  @apply text-2xl font-bold;
+}
+.heading-1 {
+  @apply text-3xl font-bold text-gray-800;
+}
+.heading-2 {
+  @apply text-2xl font-bold text-gray-800;
+}
+.heading-3 {
+  @apply text-xl font-bold text-gray-800;
+}
+.nav-tab {
+  @apply px-6 py-3 font-medium transition-colors;
+}
+.nav-tab-active {
+  @apply text-pink-600 border-b-2 border-pink-600;
+}
+.nav-tab-inactive {
+  @apply text-gray-600 hover:text-gray-800;
+}
+.container-main {
+  @apply min-h-screen bg-gradient-to-br from-pink-50 via-white to-pink-100;
+}
+.container-section {
+  @apply max-w-7xl mx-auto px-4 py-8;
+}
+.modal-overlay {
+  @apply fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4;
+}
+.modal-content {
+  @apply bg-white rounded-xl shadow-2xl max-w-2xl w-full;
+}
+.modal-header {
+  @apply bg-gradient-to-r from-pink-500 to-pink-600 p-6;
+}
+.modal-body {
+  @apply p-6;
+}
+.modal-footer {
+  @apply bg-gray-50 px-6 py-4 flex justify-end space-x-3 border-t border-gray-200;
+}
+.grid-cards {
+  @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6;
+}
+.text-primary {
+  @apply text-pink-600;
+}
+.text-secondary {
+  @apply text-gray-600;
+}
+.text-muted {
+  @apply text-gray-500;
+}
+.divider {
+  @apply border-t border-gray-200;
+}
+.transition-base {
+  @apply transition-all duration-300;
+}
+.shadow-card {
+  @apply shadow-lg hover:shadow-2xl transition-shadow;
+}
