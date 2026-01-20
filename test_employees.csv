@@ -1,0 +1,21 @@
+id,employee_name,age,salary,hire_date,department,latitude,longitude,performance_score,last_review_date,is_active,project_count,email
+1,Alice Johnson,28,65000,2020-03-15,Engineering,37.7749,-122.4194,4.5,2024-01-10,true,5,alice.j@company.com
+2,Bob Smith,35,78000,2018-07-22,Marketing,40.7128,-74.0060,4.2,2024-01-08,true,3,bob.smith@company.com
+3,Charlie Davis,42,92000,2015-11-03,Engineering,51.5074,-0.1278,4.8,2023-12-20,true,8,charlie.d@company.com
+4,Diana Prince,31,71000,2019-05-18,Sales,34.0522,-118.2437,4.1,2024-01-05,true,4,diana.p@company.com
+5,Ethan Hunt,29,68000,2021-01-30,Engineering,35.6762,139.6503,4.6,2023-12-28,true,6,ethan.h@company.com
+6,Fiona Green,38,85000,2017-09-12,Marketing,48.8566,2.3522,4.3,2024-01-12,true,7,fiona.g@company.com
+7,George Miller,45,95000,2014-02-27,Sales,52.5200,13.4050,4.7,2023-12-15,true,9,george.m@company.com
+8,Hannah Lee,26,59000,2022-06-08,Engineering,37.5665,126.9780,3.9,2024-01-03,true,2,hannah.l@company.com
+9,Ivan Petrov,33,74000,2019-10-15,Marketing,55.7558,37.6173,4.4,2023-12-22,false,5,ivan.p@company.com
+10,Julia Chen,30,72000,2020-08-20,Sales,39.9042,116.4074,4.0,2024-01-07,true,4,julia.c@company.com
+11,Kevin Brown,36,81000,2018-04-11,Engineering,1.3521,103.8198,4.5,2023-12-18,true,7,kevin.b@company.com
+12,Laura Martinez,27,63000,2021-12-01,Marketing,19.4326,-99.1332,4.2,2024-01-09,true,3,laura.m@company.com
+13,Michael Wong,41,89000,2016-03-25,Sales,-33.8688,151.2093,4.6,2023-12-25,true,8,michael.w@company.com
+14,Nina Patel,32,76000,2019-07-14,Engineering,28.6139,77.2090,4.3,2024-01-04,true,6,nina.p@company.com
+15,Oscar Wilde,39,87000,2017-11-09,Marketing,53.3498,-6.2603,4.7,2023-12-30,true,9,oscar.w@company.com
+16,Paula White,25,57000,2022-09-23,Sales,41.9028,12.4964,3.8,2024-01-11,true,2,paula.w@company.com
+17,Quinn Taylor,34,79000,2018-12-17,Engineering,59.3293,18.0686,4.4,2023-12-21,true,7,quinn.t@company.com
+18,Rachel Kim,29,70000,2020-05-06,Marketing,37.5665,126.9780,4.1,2024-01-06,true,5,rachel.k@company.com
+19,Sam Wilson,37,83000,2017-08-28,Sales,49.2827,-123.1207,4.5,2023-12-27,false,6,sam.w@company.com
+20,Tina Turner,31,75000,2019-02-19,Engineering,-37.8136,144.9631,4.2,2024-01-02,true,4,tina.t@company.com
